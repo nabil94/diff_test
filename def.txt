@@ -1,0 +1,5 @@
+brettwooldridge-HikariCP-158059986
+swagger-api-swagger-core-56505019
+yasserg-crawler4j-265972564
+jprante-elasticsearch-jdbc-108309477
+NanoHttpd-nanohttpd-63780705
